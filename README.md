@@ -1,5 +1,9 @@
 # Codebase RAG Assistant
 
+## Architecture
+
+![Architecture](screenshots/architecture.png)
+
 An AI-powered Retrieval-Augmented Generation (RAG) system that enables users to chat with source code repositories using semantic search and large language models.
 
 ## Overview
