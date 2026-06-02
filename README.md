@@ -16,6 +16,16 @@ Codebase RAG Assistant ingests a repository, extracts functions and classes usin
 * Semantic code retrieval
 * Gemini-powered answer generation
 
+## Screenshots
+
+### Indexing Pipeline
+
+![Indexing Pipeline](screenshots/indexing.png)
+
+### RAG Question Answering
+
+![RAG Demo](screenshots/rag_demo.png)
+
 ## Architecture
 
 Repository
