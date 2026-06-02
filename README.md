@@ -20,7 +20,7 @@ Codebase RAG Assistant ingests a repository, extracts functions and classes usin
 
 ### Indexing Pipeline
 
-![Indexing Pipeline](screenshots/indexing.png)
+![Indexing Pipeline](screenshots/Indexing.png)
 
 ### RAG Question Answering
 
